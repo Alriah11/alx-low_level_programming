@@ -1,4 +1,4 @@
-#include "main.h"
+#include"main.h"
 
 /**
  * _islower - function to check if
@@ -6,7 +6,7 @@
  *
  * @c: checks input of function
  *
- * Returne: returns 1 if ’c’ is lowercase
+ * Returne: returns 1 if `c` is lowercase
  *          otherwise always 0 (success)
 */
 
